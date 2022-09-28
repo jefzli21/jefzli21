@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Data Structures and Algorithm**
 
-- 👨‍💻 All of my projects are available at [xxx](xxx)
+- 👨‍💻 All of my projects are available at my GitHub Repo
 
 - 📫 How to reach me **jefzli21@gmail.com**
 
