@@ -16,7 +16,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=react,redux,js,html,css,postgres,rails,ruby,nodejs,mongodb,express)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,redux,js,html,css,postgres,rails,ruby,nodejs,mongodb,express,aws,d3,github,git,heroku,r,webpack,emotion)](https://skillicons.dev)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jefzli21&show_icons=true&locale=en&layout=compact" alt="jefzli21" /></p>
 
