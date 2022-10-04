@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Jeffrey</h1>
 <h3 align="center">A passionate full-stack developer from San Francisco Bay Area</h3>
 
-- 🌱 I’m currently learning **Data Structures and Algorithm**
+## 🌱 I’m currently learning **Data Structures and Algorithm**
 
-- 👨‍💻 All of my projects are available at my GitHub Repo
+## 👨‍💻 All of my projects are available here:
+* [See You Next Year Diet Planner](https://jefzli21.github.io/See_You_Next_Year_Diet_Planner/)
+* [Felp](https://felp-e.herokuapp.com/)
 
-- 📫 How to reach me **jefzli21@gmail.com**
+## 📫 How to reach me **jefzli21@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
