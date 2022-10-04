@@ -7,7 +7,8 @@
 * [See You Next Year Diet Planner](https://jefzli21.github.io/See_You_Next_Year_Diet_Planner/)
 * [Felp](https://felp-e.herokuapp.com/)
 
-## 📫 How to reach me **jefzli21@gmail.com**
+## 📫 How to reach me 
+**jefzli21@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
