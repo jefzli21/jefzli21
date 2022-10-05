@@ -4,8 +4,10 @@
 ## 🌱 I’m currently learning **Data Structures and Algorithm**
 
 ## 👨‍💻 All of my projects are available here:
-* [See You Next Year Diet Planner](https://jefzli21.github.io/See_You_Next_Year_Diet_Planner/)
 * [Felp](https://felp-e.herokuapp.com/)
+* [Project Sticky](https://project-sticky.herokuapp.com/)
+* [See You Next Year Diet Planner](https://jefzli21.github.io/See_You_Next_Year_Diet_Planner/)
+
 
 ## 📫 How to reach me 
 **jefzli21@gmail.com**
